@@ -22,14 +22,13 @@ algorithm.
 
 ## Build with
 - BlueJ  <br />
-Suggest using BlueJ to run this project.
+** Suggest using BlueJ to run this project.**
 
 ## Author
 miale6407@gmail.com
 
 ## Credential 
-[Click to access credential URL](
-https://www.coursera.org/account/accomplishments/certificate/RS98G5SWJNYR)
+[Click to access credential URL](https://www.coursera.org/account/accomplishments/certificate/RS98G5SWJNYR)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
