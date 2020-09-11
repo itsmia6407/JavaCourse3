@@ -22,7 +22,7 @@ algorithm.
 
 ## Build with
 - BlueJ  <br />
-** Suggest using BlueJ to run this project.**
+**Suggest using BlueJ to run this project**.
 
 ## Author
 miale6407@gmail.com
