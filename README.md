@@ -14,6 +14,12 @@ algorithm.
 5. Combine multiple classes to solve larger problems;
 6. Use iterables and collections (including maps) in Java.
 
+## Skills
+- Data Structure
+- Cryptography
+- Hash Table
+- Java Programming
+
 ## Build with
 - BlueJ 
 Suggest using BlueJ to run this project.
