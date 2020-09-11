@@ -3,7 +3,7 @@ Java Programming by Duke University on Coursera
 
 ## Description
 Learning Java new data structures. Use these data structures to build more complex programs that use 
-Java’s object-oriented features. Build an encryption program and a program to break your encryption 
+Java’s object-oriented features. <br /> Build an encryption program and a program to break your encryption 
 algorithm.
 
 ## Outcome
@@ -21,7 +21,7 @@ algorithm.
 - Java Programming
 
 ## Build with
-- BlueJ 
+- BlueJ  <br />
 Suggest using BlueJ to run this project.
 
 ## Author
